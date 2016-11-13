@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialCS", "..\..\Material\MaterialCS\MaterialCS.csproj", "{47C9B285-EEA2-4E7B-AF83-9984F3682EF8}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MaterialFS", "..\..\Material\MaterialFS\MaterialFS.fsproj", "{ED51034E-D6EB-47D4-BA76-570AAD0FF502}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "EulerFS", "EulerFS\EulerFS.fsproj", "{B0344E1A-DCDD-424D-A388-FDD0E203E38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C9B285-EEA2-4E7B-AF83-9984F3682EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C9B285-EEA2-4E7B-AF83-9984F3682EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C9B285-EEA2-4E7B-AF83-9984F3682EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C9B285-EEA2-4E7B-AF83-9984F3682EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED51034E-D6EB-47D4-BA76-570AAD0FF502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED51034E-D6EB-47D4-BA76-570AAD0FF502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED51034E-D6EB-47D4-BA76-570AAD0FF502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED51034E-D6EB-47D4-BA76-570AAD0FF502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0344E1A-DCDD-424D-A388-FDD0E203E38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0344E1A-DCDD-424D-A388-FDD0E203E38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0344E1A-DCDD-424D-A388-FDD0E203E38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0344E1A-DCDD-424D-A388-FDD0E203E38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
